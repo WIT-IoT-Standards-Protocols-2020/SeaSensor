@@ -2,7 +2,7 @@
 
 A marine environment monitoring and logging system using Low Power Wide Area Network (LPWAN) and open source web standards and protocols
 
-![Overview](./img/overview.png)
+![Overview](./img/overview.PNG)
 
 # Proposed Work Packages:
 
