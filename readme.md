@@ -62,6 +62,8 @@ Design and implement front end application that uses and visualises data. Combin
 - Mobile App ([Blynk](https://blynk.io/))
 - Bespoke Web Application (integrated with IoT platform)
 
+![Magic Mirror](./img/mm.png)
+
 ## Timeline
 
 1. Work Package Selection: 21/2/2020
@@ -70,4 +72,3 @@ Design and implement front end application that uses and visualises data. Combin
 4. Interim Presentation/Review: 30/3/2020
 5. Final Presentation/Demonstration: 29/4/2020
 
-## 
